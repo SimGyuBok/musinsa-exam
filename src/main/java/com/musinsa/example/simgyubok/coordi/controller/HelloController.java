@@ -1,4 +1,4 @@
-package com.musinsa.example.simgyubok.controller;
+package com.musinsa.example.simgyubok.coordi.controller;
 
 import lombok.Getter;
 import lombok.Setter;
