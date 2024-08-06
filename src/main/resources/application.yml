@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: simgyubok
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+server:
+  port: 8080
